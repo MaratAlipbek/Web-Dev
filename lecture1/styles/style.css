@@ -1,0 +1,24 @@
+span {
+    width: auto;
+    display: block;
+    color: #d80000;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: #008bc7;
+    border-radius: 10px;
+}
+
+.red {
+    background-color: #d80000;
+    margin: 10px 20px 30px;
+}
+
+.blue {
+    background-color: #008bc7;
+}
